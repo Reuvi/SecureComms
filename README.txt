@@ -1,2 +1,3 @@
-Open source privatised communication setup for anyone to use. Allow customizable code to setup personal communication server.
+-Open source privatised communication!
+-Anyone to download and setup a privatised communication line!
 -No one but you owns your data!
